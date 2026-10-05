@@ -10,12 +10,14 @@ body:
         To make it easier for us to help you please enter detailed information below.
         Note: We will **NEVER** handle any issue related to root detection or writable system.
         If you encounter the `Function not Implemented (38)` error during installation, [please refer to here](https://github.com/Dr-TSNG/ZygiskNext/issues/219)
+        **Bug reports that contain only AI analysis or self-speculated results without original logs will be considered invalid.**
 
         感谢给 Zygisk Next 汇报问题！
         为了使我们更好地帮助你，请提供以下信息。
         为了防止重复汇报，标题请务必使用英文。
         请注意：我们**不会**处理任何有关 root 检测和 system 分区可写相关的问题。
         如您在安装时遇到了 `Function not Implemented (38)` 错误，[请参考此处](https://github.com/Dr-TSNG/ZygiskNext/issues/219)。
+        **提交的错误报告不应该只包含 AI 分析或自行揣测的结果而不含原始日志，这些错误报告会被视作无效报告**。
   - type: textarea
     attributes:
       label: Steps to reproduce/复现步骤
